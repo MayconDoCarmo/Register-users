@@ -2,7 +2,7 @@
         Register Users 💻 
 </h1>
 <p align="center">
-  🔗 <a href="https://youtu.be/K779wsSbtS4">Assistir o projeto</a>
+  🔗 <a href="https://youtu.be/K779wsSbtS4"  target="_blank">Assistir o projeto</a>
 </p>
 
 <p align="center">
