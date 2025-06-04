@@ -59,10 +59,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/MayconDoCarmo/crud-users.git
+git clone https://github.com/MayconDoCarmo/Register-users.git
 
 # Entre na pasta do projeto
-cd crud-users
+cd register-users
 
 # Instale as dependências
 npm install
@@ -90,7 +90,7 @@ CREATE TABLE users (
 );
 ```
 
-3. Atualize as credenciais de conexão no arquivo `config.example.php` do backend, conforme necessário.
+3. Atualize as credenciais de conexão no arquivo `config.php` do backend, conforme necessário.
 4. Teste acessando via Postman ou pelo frontend Angular.
 
 <br>
